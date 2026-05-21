@@ -79,7 +79,7 @@ void yyerror(const char *msg) {
 
 # OUTPUT
 
-<img width="1468" height="731" alt="image" src="https://github.com/user-attachments/assets/43de1745-116f-4251-800c-20426d9792b1" />
+<img width="1457" height="746" alt="image" src="https://github.com/user-attachments/assets/e453bc30-8b99-4b45-92b3-2ec2f031245d" />
 
 # RESULT
 The YACC program to recognize the grammar anb where n>=10 is executed successfully and the output is verified.
